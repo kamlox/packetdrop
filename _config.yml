@@ -78,6 +78,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "packetdropblog"
+    
 defaults:
   # _posts
   - scope:
